@@ -17,13 +17,9 @@ Passionate about technology, continuous learning, and building projects that com
   <a href="https://github.com/GuilhermeMascarenhasDev">
     <img src="https://img.shields.io/badge/GitHub-GuilhermeMascarenhasDev-181717?style=for-the-badge&logo=github" />
     
-  </a>
-  <a href="https://www.instagram.com/guimascarenhas.official">
-    <img src="https://img.shields.io/badge/Instagram-@guimascarenhas.official-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+  
 
----
+
 
 ## 🧠 What I do
 
