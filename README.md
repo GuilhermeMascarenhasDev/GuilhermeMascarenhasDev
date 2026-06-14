@@ -23,27 +23,28 @@ Passionate about technology, continuous learning, and building projects that com
 
 ## 🧠 What I do
 
-| Area | Focus |
-|------|-------|
-| 💻 Web Development | Building functional and responsive systems |
-| 🎨 Graphic Design | Creating visual identities and digital materials |
-| 🎬 Video Editing | Crafting audiovisual content for digital media |
-| 🎵 Music Production | Sound design and creative audio composition |
-| 🎮 Game Development | Creating simple and interactive games |
-| 🛠️ Creative Problem Solving | Transforming complex requirements into intuitive solutions |
-| 📈 Process Optimization | Applying organizational skills to development workflows |
+| Area                         | Focus                                                                      |
+| ---------------------------- | -------------------------------------------------------------------------- |
+| ⚙️ Backend Development       | Building scalable server-side applications and APIs                        |
+| 🗄️ Database Management      | Designing, querying, and optimizing relational databases                   |
+| 🔌 API Development           | Creating and integrating RESTful services                                  |
+| 🐍 Python Development        | Developing automation scripts, backend services, and data-driven solutions |
+| 🔒 Authentication & Security | Implementing secure access control and data protection practices           |
+| 🛠️ Problem Solving          | Turning complex requirements into efficient technical solutions            |
+| 📈 Process Optimization      | Automating workflows and improving system efficiency                       |
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Backend Development
+### ⚙️ Backend Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Frontend Fundamentals
+### 🌐 Frontend Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
