@@ -2,7 +2,6 @@
 
 ![Systems Development](https://img.shields.io/badge/Systems_Development-1D9E75?style=flat-square&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Brazil](https://img.shields.io/badge/🇧🇷_Brazil-009C3B?style=flat-square&logoColor=white)
 
@@ -17,6 +16,7 @@ Passionate about technology, continuous learning, and building projects that com
 <p align="left">
   <a href="https://github.com/GuilhermeMascarenhasDev">
     <img src="https://img.shields.io/badge/GitHub-GuilhermeMascarenhasDev-181717?style=for-the-badge&logo=github" />
+    
   </a>
   <a href="https://www.instagram.com/guimascarenhas.official">
     <img src="https://img.shields.io/badge/Instagram-@guimascarenhas.official-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
