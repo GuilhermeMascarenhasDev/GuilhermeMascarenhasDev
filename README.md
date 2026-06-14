@@ -1,8 +1,6 @@
 # Hi 👋, I'm Guilherme Mascarenhas
 
 ![Systems Development](https://img.shields.io/badge/Systems_Development-1D9E75?style=flat-square&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Brazil](https://img.shields.io/badge/🇧🇷_Brazil-009C3B?style=flat-square&logoColor=white)
 
 I am a multidisciplinary professional with experience in software development, design, video editing, and music production.
