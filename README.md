@@ -1,6 +1,6 @@
 # Hi 👋, I'm Guilherme Mascarenhas
 ![Backend Developer](https://img.shields.io/badge/Backend_Developer-1D9E75?style=flat-square&logoColor=white)
-![Brazil](https://img.shields.io/badge/Brazil-009C3B?style=flat-square&logoColor=white)
+![Brasil](https://img.shields.io/badge/Brazil-009C3B?style=flat-square&logoColor=white)
 
 I am a multidisciplinary professional with experience in software development, design, video editing, and music production.
 Currently pursuing a Technical Degree in Systems Development, focusing on web development, programming, and digital solutions.
