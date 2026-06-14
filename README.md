@@ -9,7 +9,7 @@ I am a multidisciplinary professional with experience in software development, d
 Currently pursuing a Technical Degree in Systems Development, focusing on web development, programming, and digital solutions.
 Passionate about technology, continuous learning, and building projects that combine creativity with practical problem-solving.
 
----
+
 
 ## 🌐 Where to find me
 
